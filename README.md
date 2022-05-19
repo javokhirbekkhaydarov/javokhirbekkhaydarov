@@ -3,7 +3,7 @@
 I'm frontend developer <br/>
 ### My activity 
 ![](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&count_private=true&show_icons=true&theme=react) <br/>
-[![GitHUb Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javohirbekkhaydarov&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javohirbekkhaydarov&show_icons=true&theme=react)
 
 
 📍   Current location: Samarkand, Uzbekistan  </br>
