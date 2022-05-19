@@ -2,9 +2,10 @@
 
 I'm frontend developer <br/>
 ### My activity 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&theme=react) <br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=sirojiddinbazarbaev&count_private=true&show_icons=true&theme=react) <br/><br/>
 
-
+### using languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=javohirbekkhaydarov&show_icons=true&theme=react)
 
 📍   Current location: Samarkand, Uzbekistan  </br>
 📝  Ask me about anything, I am happy to help </br>
