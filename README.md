@@ -3,7 +3,7 @@
 I'm frontend developer <br/>
 ### My activity 
 ![Git Hub Stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&theme=react) <br/><br/>
-###using languages
+### using languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javohirbekkhaydarov&show_icons=true&theme=react)
 
 
