@@ -2,7 +2,7 @@
 
 I'm frontend developer <br/>
 ### My activity 
-[![javohirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov)](https://github.com/javohirbekkhaydarov/github-readme-stats) <br/><br/>
+[![javohirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov)](https://github.com/javohirbekkhaydarov/github-readme-stats&show_icons=true&theme=react) <br/><br/>
 
 ### using languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javohirbekkhaydarov&show_icons=true&theme=react)
