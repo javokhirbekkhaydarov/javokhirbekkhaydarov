@@ -2,7 +2,7 @@
 
 I'm frontend developer <br/>
 ### My activity
-![GitHUb Stats](https://github-stats.vercel.app/api?username=javohirbekkhaydarov&theme=radical)
+[![GitHUb Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=javohirbekkhaydarov&show_icons=true&theme=react)
 
 
 📍   Current location: Samarkand, Uzbekistan  </br>
