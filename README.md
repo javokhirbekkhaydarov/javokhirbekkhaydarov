@@ -1,4 +1,4 @@
-### Hi I'm Javohirbek Khaydarov👋
+### Hi I'm Javokhirbek Khaydarov👋
 
 I'm frontend developer <br/>
 ### My activity 
