@@ -1,7 +1,7 @@
 ### Hi I'm Javokhirbek Khaydarov👋
 
 I'm frontend developer <br/>
-### My activity 
+### My activities 
 [![javohirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats) <br/><br/>
 
 ### using languages
