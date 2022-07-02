@@ -4,7 +4,7 @@ I'm frontend developer <br/>
 ### My contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javohirbekkhaydarov&theme=react)](https://git.io/streak-stats)
 <br/>
-### My activities 
+### My stats
 [![javohirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats) <br/><br/>
 
 ### Using languages
