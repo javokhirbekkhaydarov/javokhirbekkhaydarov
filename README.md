@@ -14,6 +14,8 @@ I'm frontend developer <br/>
 ### Code time
 [![Javohirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats)
 
+[![Komronbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=komronbek_dev)](https://github.com/komronbek-tufliyev/github-readme-stats)
+
 <br/>
 📍    I'm Current location: Samarkand, Uzbekistan  </br>
 📝  Ask me about anything, I am happy to help) </br>
