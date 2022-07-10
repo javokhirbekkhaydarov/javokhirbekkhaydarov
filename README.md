@@ -16,7 +16,7 @@ I'm frontend developer <br/>
 
 
 <br/>
-Languages and tools I work with:
+### Languages and tools I work with:
 <br />
 <span><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="27px" ></span>&nbsp;
 <span><img src="https://www.yolearnonline.com/img/css.png" width="27px" ></span>&nbsp;
