@@ -23,7 +23,7 @@ I'm frontend developer <br/>
 <span><img src="https://camo.githubusercontent.com/3e56f251862ac6fe76e946751b983eca573cdefd9dfd9f96be38e0f645f5e46d/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f6a6176617363726970742d6c6f676f2d626c61636b2d616e642d77686974652e706e67" width="47px" ></span>&nbsp;
 <span><img src="https://camo.githubusercontent.com/bc4cc45093605b94719d75431e7ad5db1f8aedec2fbc491bbe088901b3b7e2ab/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f72656163742d312d6c6f676f2d626c61636b2d616e642d77686974652e706e67" width="47px"></span>&nbsp;
 <span><img src="https://bradysnuggs.net/img/Redux.png" width="47px"></span>&nbsp;
-<span><img 
+
 <br />
 📍    I'm Current location: Samarkand, Uzbekistan  </br>
 📝  Ask me about anything, I am happy to help) </br>
