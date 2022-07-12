@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" alt="javohirbekkhaydarov" /> </p>
+
 ### Hi I'm Javokhirbek Khaydarov👋
 
 I'm frontend developer <br/>
