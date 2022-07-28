@@ -16,6 +16,26 @@ I'm frontend developer <br/>
 ### Code time
 [![Javohirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats)
 <br/>
+
+
+
+<div align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=javohirbekkhaydarov&custom_title=Javohirbek-Khaydarov&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&count_private=true&include_all_commits=true&show_icons=true&theme=react&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=javohirbekkhaydarov&theme=react"
+    />
+
+    
+</div>
+
 ### Languages and tools I work with:
 <br />
 <span><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="47px" ></span>&nbsp;
