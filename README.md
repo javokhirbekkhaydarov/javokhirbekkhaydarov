@@ -24,14 +24,6 @@ I'm frontend developer <br/>
         width="100%"
         src="https://activity-graph.herokuapp.com/graph?username=javohirbekkhaydarov&custom_title=Javohirbek-Khaydarov&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
     />
-    <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&count_private=true&include_all_commits=true&show_icons=true&theme=react&custom_title=GitHub+Stats"
-    />
-    <img
-        width="49%"
-        src="https://github-readme-streak-stats.herokuapp.com?user=javohirbekkhaydarov&theme=react"
-    />
 
     
 </div>
