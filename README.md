@@ -22,7 +22,7 @@ I'm frontend developer <br/>
 <div align="center">
     <img
         width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=javohirbekkhaydarov&custom_title=Javohirbek-Khaydarov&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea"
+        src="https://activity-graph.herokuapp.com/graph?username=javohirbekkhaydarov&custom_title=Javohirbek-Khaydarov&bg_color=61D9FA&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
     />
     <img
         width="49%"
