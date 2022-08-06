@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" alt="javohirbekkhaydarov" /> </p>
 
-I'm frontend developer <br/>
 ### My contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javohirbekkhaydarov&theme=react)](https://git.io/streak-stats)
 <br/>
