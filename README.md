@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" alt="javohirbekkhaydarov" /> </p>
 
-### Hi I'm Javokhirbek Khaydarov👋
-
 I'm frontend developer <br/>
 ### My contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javohirbekkhaydarov&theme=react)](https://git.io/streak-stats)
@@ -39,6 +37,5 @@ I'm frontend developer <br/>
 
 
 <br />
-📍    I'm Current location: Samarkand, Uzbekistan  </br>
-📝  Ask me about anything, I am happy to help) </br>
+
 📨  My telegram blog <a href="https://t.me/javohirbek_frontEnd">link</a>
