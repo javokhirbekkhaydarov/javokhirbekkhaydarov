@@ -4,14 +4,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javohirbekkhaydarov&theme=react)](https://git.io/streak-stats)
 <br/>
 ### My stats
-[![javohirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats) <br/><br/>
+[![javohirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats) <br/><br/>
 
 ### Most used languages
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=javohirbekkhaydarov&show_icons=true&theme=react)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirbekkhaydarov&show_icons=true&theme=react)
 
 
 ### Code time
-[![Javohirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats)
+[![Javohirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javohirbekkhaydarov/github-readme-stats)
 <br/>
 
 
