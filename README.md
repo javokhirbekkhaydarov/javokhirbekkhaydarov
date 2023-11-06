@@ -11,7 +11,7 @@
 
 
 ### Code time
-[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javohirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
+[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
 <br/>
 
 
