@@ -55,4 +55,4 @@
 
 <br />
 
-📨  My telegram blog <a href="https://t.me/javohirbek_frontEnd">link</a>
+📨  My telegram blog <a href="https://t.me/javohirbeks_blog">link</a>
