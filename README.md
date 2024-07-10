@@ -52,7 +52,13 @@
           
 </div>
 
+## Contact
 
 <br />
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><a href="https://t.me/javohirbeks_blog" style="text-decoration:none">📨 My telegram blog</a></td>
+    <td style="border: none;"><a href="https://t.me/javohirbeks_blog" style="text-decoration:none"><img src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov telegram logo t.me/westdev" /></a></td>
+  </tr>
+</table>
 
-📨  My telegram blog <a href="https://t.me/javohirbeks_blog">link</a>
