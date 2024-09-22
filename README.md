@@ -10,12 +10,9 @@
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirbekkhaydarov&show_icons=true&theme=react)
 
 
-### Code time
+### Coding time
 [![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
 <br/>
-
-
-
 <div align="center">
     <img
         width="100%"
