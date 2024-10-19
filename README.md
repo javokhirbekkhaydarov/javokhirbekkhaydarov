@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov sass logo" />
     <img width="12" />
-  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="30" alt="Javokhirbek Khaydarov Javohirbek Xaydarov vuex logo" />
+  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" height="32" alt="Javokhirbek Khaydarov Javohirbek Xaydarov vuex logo" />
           
 </div>
 
