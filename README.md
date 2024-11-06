@@ -15,7 +15,7 @@
 <br/>
 <div align="center">
     <img
-        width="99%"
+        width="100%"
         src="https://activity-graph.herokuapp.com/graph?username=javokhirbekkhaydarov&custom_title=Javohirbek-Khaydarov&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
     />
 
