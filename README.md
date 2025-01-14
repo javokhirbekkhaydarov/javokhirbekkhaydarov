@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" width="200" alt="javokhirbekkhaydarov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" width="210" alt="javokhirbekkhaydarov" /> </p>
 
 ### My contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javokhirbekkhaydarov&theme=react)](https://git.io/streak-stats)
