@@ -1,8 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirbekkhaydarov&label=Profile%20views&color=0e75b6&style=flat" width="210" alt="javokhirbekkhaydarov" /> </p>
 
-### My contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=javokhirbekkhaydarov&theme=react)](https://git.io/streak-stats)
-<br/>
 ### My stats
 [![javokhirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
 
