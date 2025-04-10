@@ -6,10 +6,6 @@
 ### My stats
 [![javokhirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
 
-### Most used languages
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=javokhirbekkhaydarov&show_icons=true&theme=react)
-
-
 ### Coding time
 [![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
 <br/>
