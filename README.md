@@ -4,7 +4,8 @@
 [![javokhirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
 
 ### Coding time
-[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
+[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react&langs_count=10)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
+
 <br/>
 <div align="center">
     <img
