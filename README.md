@@ -4,17 +4,10 @@
 [![javokhirbekkhaydarov's github stats](https://github-readme-stats.vercel.app/api?username=javokhirbekkhaydarov&show_icons=true&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
 
 ### Coding time
-[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react&langs_count=10)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
+[![Javokhirbek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javokhirbekkhaydarov&show_icons=true&theme=react&langs_count=10)](https://github.com/javokhirbekkhaydarov/github-readme-stats) <br/><br/>
 
-<br/>
-<div align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=javokhirbekkhaydarov&custom_title=Javohirbek-Khaydarov&bg_color=0D1117&line=61D9FA&color=61D9FA&point=fdf5ea&hide_border=true&area=false&area_color=61D9FA"
-    />
-
-    
-</div>
+### Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=javokhirbekkhaydarov&layout=compact&langs_count=6&theme=react)](https://github.com/javokhirbekkhaydarov/github-readme-stats)
 
 ### Languages and tools I work with:
 <br />
